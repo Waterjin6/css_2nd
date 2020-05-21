@@ -1,0 +1,64 @@
+html{background-color: plum;}
+body {
+    line-height: 1.7;
+color:rgba(0,0,0,0.5);
+font-weight: 400;
+font-size: 1rem;
+}
+a {
+text-decoration: none;
+}
+a:hover{
+text-decoration: none;
+}
+.menu {
+border-bottom: 1px solid rgb(170, 40, 159);
+}
+
+ul {
+font-family: Georgia,Georgia,'Times New Roman', Times, serif;
+margin-bottom: 0;
+padding-inline-start: 0px; }
+.name {
+    text-align: center;
+    font-style:bold;
+    font-size: 130px;
+    margin-left: 400px;
+    padding: 5px;
+    border: 10px purple;
+    border-style: double;
+    background-color:rgb(177, 109, 177);
+    width:600px;
+    }
+
+    .text {
+    padding: 5px;
+    border: 3px purple;
+    border-style: dotted;
+    background-color:rgb(177, 109, 177);
+    }
+
+    .img-fluid {
+    width: 40%;
+    height: auto; }
+
+    .last{
+    background-color:rgb(177, 109, 177);
+    font-style:bold;
+    text-align: right;
+    }
+    .explain {
+        color:black;
+        padding: 5px;
+        border: 3px purple;
+        border-style: dotted;
+        background-color:rgb(177, 109, 177);
+        }
+        .caption {
+            text-transform: uppercase;
+            font-weight: 800;
+            letter-spacing: .2em;
+            font-size: 12px;
+            padding: 7px 10px;
+            color: black;
+            display: inline-block; }
